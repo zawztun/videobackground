@@ -1,0 +1,59 @@
+body{
+    background-image: url("");
+    background-size: cover;
+    height: 90%;
+    width:100%;
+}
+div{
+    
+    margin-bottom: 4px;
+    border:2px solid #EEE2A4;   
+    text-align: center;
+}
+
+.dropdown{
+    background-color:#0B5A72;
+}
+.dropdown-menu{
+    background-color:lightskyblue;
+    width:25%;
+    height:auto;
+    border-radius: 20%;}
+
+.jumbotron{
+    background-image:url("https://images.pexels.com/photos/194096/pexels-photo-194096.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=350");
+    background-size:cover;
+    color:yellow;
+    margin-right: 20px;
+}
+#zzt{
+
+    width:80px;
+    height: 80px;
+    border-radius: 50%;
+    background-image: url("../img/resume.jpg");
+    background-size: cover;
+  
+}
+.dis-1{
+    color:greenyellow;
+
+}
+
+
+table{
+    color:lightgreen;
+}
+td,th{
+    border:.5px solid gray;
+    text-align:left;
+    padding:10px;
+}
+.address{
+    color:blue;
+    background-color:lightgreen
+}
+.modal-body{
+    background-color:
+    lightblue;
+}
