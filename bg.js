@@ -1,3 +1,6 @@
+
+<script src="script.js" type="text/JavaScript"/>
+
 $(document).ready(function(){
     $("#first").click(function(){
         $("#1").toggle(2000);
